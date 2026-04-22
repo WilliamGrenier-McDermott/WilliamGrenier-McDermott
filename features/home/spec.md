@@ -1,6 +1,6 @@
 # Feature: Home Page
 ## Goal
-implement `index.html`
+Have an esteticaly pleasing page that looks good in mobile and full. have enough useful information with related pictures
 ## Designs
 ![target layout](./assets/images/spec.png)
 ## Work
