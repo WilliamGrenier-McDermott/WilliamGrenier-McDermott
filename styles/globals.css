@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Miranda_Sans";
+    src: url(../assets/fonts/Miranda_Sans/MirandaSans-VariableFont_wght.ttf);
+}
+
+body{
+    background-color: #faf9f6;
+}
+
+header{
+    font-family: "Miranda_Sans", sans-serif;
+    font-size: 3 rem;
+}
+
