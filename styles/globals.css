@@ -8,7 +8,7 @@
     src: url(../assets/fonts/Tenor_Sans/TenorSans-Regular.ttf);
 }
 
-body{
+body {
     background-color: #faf9f6;
     display: flex;
     justify-content: center;
@@ -16,9 +16,8 @@ body{
     font-family: "Miranda_Sans", serif;
 }
 
-header{
+header {
     font-family: "Tenor_Sans", sans-serif;
     font-size: 3rem;
     background-color: #CDF8BA;
 }
-
